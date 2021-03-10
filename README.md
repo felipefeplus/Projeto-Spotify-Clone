@@ -10,7 +10,8 @@
 </p>
 
 <br>
-## 🚀 Tecnologias
+
+##🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
