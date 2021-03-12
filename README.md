@@ -28,7 +28,7 @@ O Spotify Web é meu primeiro projeto com framework Bootstrap é um clone da pá
 - Navigation and post - Navegação e postagem
 - Responsive Page - Site responsivo
 
-Você pode visualizar o layout do projeto 
+Você pode visualizar o layout do projeto <br>
 ![Alt text](https://github.com/felipe-gomes-vicente/Spotify-preview/blob/main/spotify-preview.gif ) <br>
 
 ## :memo: Licença
