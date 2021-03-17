@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Spotify Web é meu primeiro projeto com framework Bootstrap é um clone da página sobre streaming de música mais famoso do mundo, é possível ver a construção do site e layout da pagina:
 
+
 - HomePage - Página inicial do site
 - Navigation Bar - Barra de navegação
 - Navigation and post - Navegação e postagem
